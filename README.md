@@ -1,5 +1,3 @@
 # get_next_line
 
-
-
-s e x y
+The project is about programming a function called get_next_line that reads a line from a file descriptor.
